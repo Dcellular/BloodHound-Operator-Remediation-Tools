@@ -1,0 +1,3 @@
+[submodule "BloodHoundOperator"]
+	path = BloodHoundOperator
+	url = https://github.com/SadProcessor/BloodHoundOperator.git
